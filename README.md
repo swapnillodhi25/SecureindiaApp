@@ -1,6 +1,11 @@
 # secureindia
 
-A new Flutter project.
+here Demo  for Digital Fraud Awareness App 
+
+![Digital_fraud_App_](https://github.com/user-attachments/assets/8f4cdf29-3a92-49df-894f-17bee6284cad)
+
+
+      
 
 ## Getting Started
 
